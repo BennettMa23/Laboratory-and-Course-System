@@ -1,0 +1,4 @@
+管理员权限打开cmd，输入
+mysql --default-character-set=gbk -uroot -p123456
+再输入
+SET @@global.sql_mode='';
